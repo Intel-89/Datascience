@@ -7,10 +7,10 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 
 ### Interesting Github Profiles:
 
-[https://github.com/datasciencescoop](Data Science Scoop)
+1. [Data Science Scoop](ttps://github.com/datasciencescoop)
 
-[https://github.com/NajiElKotob](Data Analyst and Visualization Specialist Page)
-[https://github.com/NajiElKotob/Awesome-Power-BI]
-[https://github.com/NajiElKotob/Awesome-ML]
-[https://github.com/NajiElKotob/Awesome-PowerQuery]
-[https://github.com/NajiElKotob/LetsTalkData]
+1. [Data Analyst and Visualization Specialist Page](https://github.com/NajiElKotob)
+  1. [Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
+  1. [Machine Learning](https://github.com/NajiElKotob/Awesome-ML)
+  1. [Power Query](https://github.com/NajiElKotob/Awesome-PowerQuery)
+  1. [more Power BI](https://github.com/NajiElKotob/LetsTalkData)
