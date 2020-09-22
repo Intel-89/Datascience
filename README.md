@@ -10,10 +10,10 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 1. [Data Science Scoop](https://github.com/datasciencescoop)
 
 1. [Data Analyst and Visualization Specialist Page](https://github.com/NajiElKotob)
-   2. [Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
-   2. [Machine Learning](https://github.com/NajiElKotob/Awesome-ML)
-   2. [Power Query](https://github.com/NajiElKotob/Awesome-PowerQuery)
-   2. [more Power BI](https://github.com/NajiElKotob/LetsTalkData)
+   1. [Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
+   1. [Machine Learning](https://github.com/NajiElKotob/Awesome-ML)
+   1. [Power Query](https://github.com/NajiElKotob/Awesome-PowerQuery)
+   1. [more Power BI](https://github.com/NajiElKotob/LetsTalkData)
 
 1. Item 1
 1. Item 2
