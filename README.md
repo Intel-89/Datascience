@@ -1,5 +1,5 @@
 # Datascience 
-[GitHub Logo](https://github.com/Intel-89/other/Octocat_DataScience.png)
+[GitHub Logo](https://github.com/Intel-89/other/blob/master/Octocat_DataScience.png)
 Format: ![Alt Text](url)
 
 
