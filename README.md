@@ -1,5 +1,5 @@
 # Datascience 
-[GitHub Logo](https://octodex.github.com/fintechtocat/)
+[GitHub Logo](other/Octocat_DataScience.png)
 Format: ![Alt Text](url)
 
 
