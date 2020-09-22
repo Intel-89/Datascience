@@ -1,7 +1,4 @@
 # Datascience
 ### Repository for sharing interesting Datascience link, info, data,etc...
 
-ICD10_pypi contains link idc10 python package
-
-https://pypi.org/project/icd10-cm/
-
+[icd10-cm 0.0.4](https://pypi.org/project/icd10-cm/)
