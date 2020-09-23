@@ -18,3 +18,6 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
    1. [more Power BI](https://github.com/NajiElKotob/LetsTalkData)
 
 
+### Tableau Related:
+
+1. [TabPy (the Tableau Python Server)](https://github.com/tableau/TabPy)
