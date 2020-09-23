@@ -1,5 +1,5 @@
 # Datascience 
-<img src="https://github.com/Intel-89/other/Repo_Resources/blob/master/Octocat_DataScience.png" width="350">
+<img src="https://github.com/Intel-89/other/blob/master/Repo_Resources/Octocat_DataScience.png" width="350">
 
 ### Repository for sharing interesting Datascience link, info, data,etc...
 
