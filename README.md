@@ -22,3 +22,8 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 
 1. [TabPy (the Tableau Python Server)](https://github.com/tableau/TabPy)
 1. [Tabcmd2, A Python based app that replicates the functionality of the existing Tabcmd command line utility](https://github.com/tableau/tabcmd2)
+
+
+### Power Query Related:
+
+1. [Viz Query Errors](https://blog.crossjoin.co.uk/2014/12/22/viewing-error-messages-for-all-rows-in-power-query/)
