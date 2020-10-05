@@ -86,10 +86,10 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 
 ### GOOGLE Colab:
 
-1. [Intro to Google Colab for Data Analytics]((https://towardsdatascience.com/intro-to-google-colab-for-data-analytics-da5e3a37af8a))
-1. [10 tricks for a better Google Colab experience]((https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82?source=rss----7f60cf5620c9---4))
+1. [Intro to Google Colab for Data Analytics](https://towardsdatascience.com/intro-to-google-colab-for-data-analytics-da5e3a37af8a)
+1. [10 tricks for a better Google Colab experience](https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82?source=rss----7f60cf5620c9---4)
 1. [Double Your Google Colab RAM in 10 Seconds](https://towardsdatascience.com/double-your-google-colab-ram-in-10-seconds-using-these-10-characters-efa636e646ff)
-1. [Conda + Google Colab]((https://towardsdatascience.com/conda-google-colab-75f7c867a522))
+1. [Conda + Google Colab](https://towardsdatascience.com/conda-google-colab-75f7c867a522)
 1. [Reading and Writing files with Google Colaboratory](https://towardsdatascience.com/reading-and-writing-files-with-google-colaboratory-f0c234683946)
 1. [3 Ways to Load CSV files into Colab](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
 
