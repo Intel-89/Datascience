@@ -82,3 +82,18 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 1. [Group and aggregate data using SQL](https://towardsdatascience.com/grouping-and-aggregating-data-using-sql-7ac85d654fe4)
 1. [Learn SQL & MongoDB Simultaneously — The Easy Way (Part 1)](https://towardsdatascience.com/learn-sql-mongodb-simultaneously-the-easy-way-part-1-2d4ee20aa083)
 1. [Time Series Forecasting With SQL](https://towardsdatascience.com/time-series-forecasting-with-sql-its-easier-than-you-think-1f5b362d0c81)
+
+
+### GOOGLE Colab:
+
+1. [Intro to Google Colab for Data Analytics]((https://towardsdatascience.com/intro-to-google-colab-for-data-analytics-da5e3a37af8a))
+1. [10 tricks for a better Google Colab experience]((https://towardsdatascience.com/10-tips-for-a-better-google-colab-experience-33f8fe721b82?source=rss----7f60cf5620c9---4))
+1. [Double Your Google Colab RAM in 10 Seconds](https://towardsdatascience.com/double-your-google-colab-ram-in-10-seconds-using-these-10-characters-efa636e646ff)
+1. [Conda + Google Colab]((https://towardsdatascience.com/conda-google-colab-75f7c867a522))
+1. [Reading and Writing files with Google Colaboratory](https://towardsdatascience.com/reading-and-writing-files-with-google-colaboratory-f0c234683946)
+1. [3 Ways to Load CSV files into Colab](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+
+### R:
+
+1. [Extracting Keywords from a Text Using R Regex (Easy)](https://towardsdatascience.com/extracting-information-from-a-text-in-5-minutes-using-r-regex-520a859590de)
