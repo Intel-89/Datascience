@@ -20,8 +20,7 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 
 ### Tableau:
 
-1. [How to Pass the Tableau Desktop Specialist Certification Exam]((https://towardsdatascience.com/how-to-pass-the-tableau-desktop-specialist-certification-exam-bccb85b8e000?source=rss----7f60cf5620c9--tableau))
-
+1. [How to Pass the Tableau Desktop Specialist Certification Exam](https://towardsdatascience.com/how-to-pass-the-tableau-desktop-specialist-certification-exam-bccb85b8e000?source=rss----7f60cf5620c9--tableau)
 1. [Three simple habits to avoid Tableau dumpster fires](https://medium.com/@elliottstam/three-simple-habits-to-avoid-tableau-dumpster-fires-dd9c22af662c)
 1. [Tableau Creating a ‘toggle help screen’ for your dashboard](https://datavis.blog/2019/03/10/show-hide-containers/)
 1. [Using the Show/Hide container button as a way to prompt users for additional data](https://www.thedataschool.co.uk/janasobini-vetharuban/using-the-show-hide-container-button-as-a-way-to-prompt-users-for-additional-data/)
