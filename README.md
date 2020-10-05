@@ -77,8 +77,8 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 ### SQL:
 
 1. [SQL Cheat Sheet](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
-1. [5 SQL tips to make your queries prettier and easier to read]((https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f?source=rss----7f60cf5620c9---4))
-1. [SQLZoo: The Best Way to Practice SQL]((https://towardsdatascience.com/sqlzoo-the-best-way-to-practice-sql-66b7ccb1f17a?source=rss----7f60cf5620c9---4))
+1. [5 SQL tips to make your queries prettier and easier to read](https://towardsdatascience.com/5-sql-tips-to-make-your-queries-prettier-and-easier-to-read-d9e3a543514f?source=rss----7f60cf5620c9---4)
+1. [SQLZoo: The Best Way to Practice SQL](https://towardsdatascience.com/sqlzoo-the-best-way-to-practice-sql-66b7ccb1f17a?source=rss----7f60cf5620c9---4)
 1. [Group and aggregate data using SQL](https://towardsdatascience.com/grouping-and-aggregating-data-using-sql-7ac85d654fe4)
-1. [Learn SQL & MongoDB Simultaneously — The Easy Way (Part 1)]((https://towardsdatascience.com/learn-sql-mongodb-simultaneously-the-easy-way-part-1-2d4ee20aa083))
+1. [Learn SQL & MongoDB Simultaneously — The Easy Way (Part 1)](https://towardsdatascience.com/learn-sql-mongodb-simultaneously-the-easy-way-part-1-2d4ee20aa083)
 1. [Time Series Forecasting With SQL](https://towardsdatascience.com/time-series-forecasting-with-sql-its-easier-than-you-think-1f5b362d0c81)
