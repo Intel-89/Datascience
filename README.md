@@ -1,4 +1,4 @@
-# Datascience 
+# Data Analysis / Datascience 
 <img src="https://github.com/Intel-89/other/blob/master/Repo_Resources/Octocat_DataScience.png" width="350">
 
 ### Repository for sharing interesting Datascience link, info, data,etc...
@@ -15,7 +15,7 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
    1. [Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
    1. [Machine Learning](https://github.com/NajiElKotob/Awesome-ML)
    1. [Power Query](https://github.com/NajiElKotob/Awesome-PowerQuery)
-   1. [more Power BI](https://github.com/NajiElKotob/LetsTalkData)
+   1. [Power BI ++](https://github.com/NajiElKotob/LetsTalkData)
 
 
 ### Tableau:
