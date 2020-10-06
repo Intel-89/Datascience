@@ -69,6 +69,9 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 1. [Connecting to Files in SharePoint & OneDrive with Power BI / Power Query](https://www.poweredsolutions.co/2019/04/04/connecting-to-files-in-sharepoint-onedrive-with-power-bi-power-query/)
 1. [Power BI: M vs. DAX and Measures vs. Calculated Columns](https://towardsdatascience.com/power-bi-m-vs-dax-vs-measures-4c77ae270790)
 1. [Forecasting in Power BI](https://towardsdatascience.com/forecasting-in-power-bi-4cc0b3568443)
+1. [Override date filter in Power BI](https://towardsdatascience.com/override-date-filter-in-power-bi-743b9e8b9b2)
+1. [Connect to Data Sources- Power BI 70–778 Exam Preparation Insights](https://medium.com/@Sapna.Puranic/power-bi-70-778-exam-preparation-insights-connect-to-data-sources-b9f04b4cc05c)
+1. [Passing DA-100 Microsoft Exam — Experience](https://towardsdatascience.com/passing-da-100-microsoft-exam-my-experience-6a911b41ec79)
 
 
 ### SharePoint:
