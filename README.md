@@ -92,6 +92,8 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 1. [Learn SQL & MongoDB Simultaneously — The Easy Way (Part 1)](https://towardsdatascience.com/learn-sql-mongodb-simultaneously-the-easy-way-part-1-2d4ee20aa083)
 1. [Time Series Forecasting With SQL](https://towardsdatascience.com/time-series-forecasting-with-sql-its-easier-than-you-think-1f5b362d0c81)
 1. [SQL for Data Scientists, in Under 6 Minutes](https://medium.com/analytics-vidhya/sql-for-data-scientists-in-6-minutes-or-less-6e11a377751f)
+1. [Writing Good SQL](https://towardsdatascience.com/writing-good-sql-ccb578ff9919)
+1. [SQL Query Cheatsheet](https://towardsdatascience.com/sql-query-cheatsheet-for-postgres-96eba6e9e419)
 
 ### GOOGLE Colab:
 
