@@ -61,6 +61,8 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 
 ### Power BI:
 
+1. [DAX Studio](https://daxstudio.org/)
+1. [Power BI resource list](https://www.linkedin.com/pulse/i-dont-know-lot-simply-read-0-dimes-power-bi-resource-alex-powers/)
 1. [Power BI Best Practices](https://medium.com/@nimaiahluwalia1998/power-bi-best-practices-667094d30af4)
 1. [A Beginner’s Guide To Power BI](https://medium.com/beginners-guide-to-docker/a-beginners-guide-to-power-bi-1e95a727872)
 1. [Dates in Power BI](https://medium.com/@dasShounak/test-your-internet-speed-through-the-command-line-2c486d9cca93)
@@ -97,6 +99,9 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 1. [SQL for Data Scientists, in Under 6 Minutes](https://medium.com/analytics-vidhya/sql-for-data-scientists-in-6-minutes-or-less-6e11a377751f)
 1. [Writing Good SQL](https://towardsdatascience.com/writing-good-sql-ccb578ff9919)
 1. [SQL Query Cheatsheet](https://towardsdatascience.com/sql-query-cheatsheet-for-postgres-96eba6e9e419)
+1. [41 Essential SQL Interview Questions](https://www.toptal.com/sql/interview-questions)
+1. [WideWorldImporters Sample Database for SQL Server and Azure SQL Database](https://github.com/Microsoft/sql-server-samples/blob/master/samples/databases/wide-world-importers/README.md)
+1. [SQL Server Samples](https://github.com/microsoft/sql-server-samples/releases)
 
 ### GOOGLE Colab:
 
