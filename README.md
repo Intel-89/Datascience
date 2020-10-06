@@ -10,6 +10,15 @@ ICD-10 codes for diseases, signs and symptoms, abnormal findings, complaints, so
 ### Interesting Github Profiles:
 
 1. [Data Science Scoop](https://github.com/datasciencescoop)
+1. [Awesome Data Science](https://github.com/academic/awesome-datascience)
+1. [Data-Science-Wiki](https://github.com/Leo-G/Data-Science-Wiki)
+1. [Data Science Collected Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
+1. [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+1. [DataScience Resources](https://github.com/jonathan-bower/DataScienceResources)
+1. [Data science blogs](https://github.com/rushter/data-science-blogs)
+1. [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
+1. [Free Data Science Books](https://github.com/LearnDataSci/free-data-science-learning/blob/master/free-data-science-books.md)
+
 
 1. [Data Analyst and Visualization Specialist Page](https://github.com/NajiElKotob)
    1. [Power BI](https://github.com/NajiElKotob/Awesome-Power-BI)
